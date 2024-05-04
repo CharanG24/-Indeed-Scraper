@@ -1,0 +1,1 @@
+This script scrapes the Indeed Indian website to find job listings that match the user-provided skill and location. The user also specifies the number of pages to scrape. The matched job details, including job name, company name, location, job link, and posting date, are then written to a CSV file at the specified file path.
